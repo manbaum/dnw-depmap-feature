@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.dnw.depmap.feature"
+      label="DNW Dependency Map Generator Feature"
+      version="1.0.0.pre"
+      provider-name="DNW Technologies"
+      plugin="com.dnw.depmap">
+
+   <description url="http://www.example.com/description">
+      [Enter Feature Description here.]
+   </description>
+
+   <copyright url="http://www.example.com/copyright">
+      [Enter Copyright Description here.]
+   </copyright>
+
+   <license url="http://www.example.com/license">
+      IF YOU DARE TO PIRACY, I WILL GIVE YOU SOME COLOR TO SEE SEE! OH YEAH! COME ON BABY LET&apos;S GO!
+   </license>
+
+   <requires>
+      <import plugin="com.dnw.depmap"/>
+   </requires>
+
+</feature>
